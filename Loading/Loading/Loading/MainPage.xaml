@@ -4,8 +4,13 @@
              xmlns:local="clr-namespace:Loading"
              x:Class="Loading.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout >
+        <Button x:Name="botao" Clicked="Show" Text="Login" />
+
+        <ActivityIndicator x:Name="actInd"
+                             IsRunning="{Binding IsLoading}"
+                             IsVisible="{Binding IsLoading}" />
+
+    </StackLayout>
 
 </ContentPage>
