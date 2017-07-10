@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace Loading
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : ContentPage, INotifyPropertyChanged
     {
         public MainPage()
         {
