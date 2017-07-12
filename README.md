@@ -11,8 +11,8 @@
 
 # Loading-Xamarin.Forms
 
-Exemplo realizado em um post do blog, para demonstração de como criar um Loading no Xamarin.Forms.<a href="https://julianocustodio.com/2017/07/10/loading-xamarin-forms/"><b> Ler o post</b></a> 
-<a href="https://julianocustodio.com/2017/07/10/loading-xamarin-forms/">
+Exemplo realizado em um post do blog, para demonstração de como criar um Loading no Xamarin.Forms.<a href="https://julianocustodio.com/2017/07/12/loading-xamarin-forms/"><b> Ler o post</b></a> 
+<a href="https://julianocustodio.com/2017/07/12/loading-xamarin-forms/">
 <image width="800px" src="https://julianocustodiosite.files.wordpress.com/2017/07/loading2.png?w=1462"/></a>
 <span>
 <br/>
