@@ -13,7 +13,7 @@
 
 Exemplo realizado em um post do blog, para demonstração de como criar um Loading no Xamarin.Forms.<a href="https://julianocustodio.com/2017/07/10/loading-xamarin-forms/"><b> Ler o post</b></a> 
 <a href="https://julianocustodio.com/2017/07/10/loading-xamarin-forms/">
-<image width="800px" src="https://julianocustodiosite.files.wordpress.com/2017/07/loading1.png?w=1462"/></a>
+<image width="800px" src="https://julianocustodiosite.files.wordpress.com/2017/07/loading2.png?w=1462"/></a>
 <span>
 <br/>
 
@@ -22,6 +22,16 @@ Exemplo realizado em um post do blog, para demonstração de como criar um Loadi
 <span>
   <b>Android</b>
   <br/>
-  <image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/07/loading.gif?w=417&h=683"/>
+  <image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/07/loadingandroid.gif?w=417&h=683"/>
+</span>
+<span>
+  <b>iOS</b>
+  <br/>
+  <image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/07/loadingios.gif?w=417&h=683"/>
+</span>
+<span>
+  <b>UWP</b>
+  <br/>
+  <image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/07/untitled-project.gif?w=656&h=780"/>
 </span>
 
