@@ -5,11 +5,11 @@
              x:Class="Loading.MainPage">
 
     <StackLayout >
-        <Button x:Name="botao" Clicked="Show" Text="Login" />
+        <Button x:Name="botao" Clicked="Show" Text="Login" TextColor="White" BackgroundColor="#3b5998" Margin="10,30,10,30"/>
 
         <ActivityIndicator x:Name="actInd"
                              IsRunning="{Binding IsLoading}"
-                             IsVisible="{Binding IsLoading}" />
+                             IsVisible="{Binding IsLoading}" Color="Red"/>
 
     </StackLayout>
 
