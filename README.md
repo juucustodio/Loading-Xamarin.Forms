@@ -3,7 +3,7 @@
 
 
 
-  <a href="http://julianocustodio.com"><image width="100px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=300&h=300&crop=1"/></a>
+  <a href="http://julianocustodio.com" target="_blank"><image width="100px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=300&h=300&crop=1"/></a>
  <br/><a href="http://julianocustodio.com">julianocustodio.com</a>
 
  
@@ -11,7 +11,7 @@
 
 # Loading-Xamarin.Forms
 
-Exemplo realizado em um post do blog, para demonstração de como criar um Loading no Xamarin.Forms.<a href="https://julianocustodio.com/2017/07/12/loading-xamarin-forms/"><b> Ler o post</b></a> 
+Exemplo realizado em um post do blog, para demonstração de como criar um Loading no Xamarin.Forms.<a href="https://julianocustodio.com/2017/07/12/loading-xamarin-forms/" target="_blank"><b> Ler o post</b></a> 
 <a href="https://julianocustodio.com/2017/07/12/loading-xamarin-forms/">
 <image width="800px" src="https://julianocustodiosite.files.wordpress.com/2017/07/loading2.png?w=1462"/></a>
 <span>
