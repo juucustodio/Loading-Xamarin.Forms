@@ -12,6 +12,7 @@ namespace Loading
             InitializeComponent();
 
             IsLoading = false;
+            IsDisabled = true;
             BindingContext = this;
         }
         public async void Show(object sender, EventArgs e)
@@ -38,10 +39,12 @@ namespace Loading
         public async void aparece()
         {
             IsLoading = true;
+            IsDisabled = false;
         }
         public async void some()
         {
             IsLoading = false;
+            IsDisabled = true;
         }
 
         private bool isLoading;
@@ -58,6 +61,19 @@ namespace Loading
             }
         }
 
+        private bool isDisabled;
+        public bool IsDisabled
+        {
+            get
+            {
+                return this.isDisabled;
+            }
+            set
+            {
+                this.isDisabled = value;
+                RaisePropertyChanged("IsDisabled");
+            }
+        }
 
 
         public event PropertyChangedEventHandler PropertyChanged;

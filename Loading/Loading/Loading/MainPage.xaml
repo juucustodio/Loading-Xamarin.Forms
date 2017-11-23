@@ -5,7 +5,7 @@
              x:Class="Loading.MainPage">
 
     <StackLayout >
-        <Button x:Name="botao" Clicked="Show" Text="Login" TextColor="White" BackgroundColor="#3b5998" Margin="10,30,10,30"/>
+        <Button x:Name="botao" IsEnabled="{Binding IsDisabled}" Clicked="Show" Text="Login" TextColor="White" BackgroundColor="#3b5998" Margin="10,30,10,30"/>
 
         <ActivityIndicator x:Name="actInd"
                              IsRunning="{Binding IsLoading}"
